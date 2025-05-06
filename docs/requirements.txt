@@ -3,3 +3,4 @@ breathe
 sphinx-ncs-theme==0.7.4
 sphinx-tabs>=3.4
 sphinx-togglebutton
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
